@@ -1,0 +1,13 @@
+C:\Users\gulle\Github vs code\Rubaek21.github.io\bin\Debug\netcoreapp3.1\Rubaek21.github.io.exe
+C:\Users\gulle\Github vs code\Rubaek21.github.io\bin\Debug\netcoreapp3.1\Rubaek21.github.io.deps.json
+C:\Users\gulle\Github vs code\Rubaek21.github.io\bin\Debug\netcoreapp3.1\Rubaek21.github.io.runtimeconfig.json
+C:\Users\gulle\Github vs code\Rubaek21.github.io\bin\Debug\netcoreapp3.1\Rubaek21.github.io.runtimeconfig.dev.json
+C:\Users\gulle\Github vs code\Rubaek21.github.io\bin\Debug\netcoreapp3.1\Rubaek21.github.io.dll
+C:\Users\gulle\Github vs code\Rubaek21.github.io\bin\Debug\netcoreapp3.1\Rubaek21.github.io.pdb
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.csprojAssemblyReference.cache
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.AssemblyInfoInputs.cache
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.AssemblyInfo.cs
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.csproj.CoreCompileInputs.cache
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.dll
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.pdb
+C:\Users\gulle\Github vs code\Rubaek21.github.io\obj\Debug\netcoreapp3.1\Rubaek21.github.io.genruntimeconfig.cache

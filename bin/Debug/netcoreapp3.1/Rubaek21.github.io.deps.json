@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rubaek21.github.io/1.0.0": {
+        "runtime": {
+          "Rubaek21.github.io.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rubaek21.github.io/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
